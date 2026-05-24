@@ -2,3 +2,12 @@
 .Rhistory
 .RData
 .Ruserdata
+
+/.quarto/
+**/*.quarto_ipynb
+_site/
+提出用.docx
+_quarto.yml
+.gitignore
+.DS_Store
+

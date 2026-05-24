@@ -1,0 +1,4 @@
+item,text
+year_message,明確な線形トレンドは検出されません（p=0.107）。年ごとの変動は存在します。
+site_message,"増加傾向が大きいサイト例: Wentworth Falls Lake - Jetty, Yosemite Creek - Minnehaha Falls, Callan Park Seawall, Windsor Beach, Bilarong Reserve。個別調査を推奨します。"
+precip_message,"7日累積降水と Enterococci に有意な相関があります（rho=0.273, p=0）。降水増加後の濃度上昇が示唆されます（因果ではありません）。"
