@@ -12,3 +12,5 @@ _quarto.yml
 .DS_Store
 
 
+outputs/
+scripts/
